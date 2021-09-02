@@ -1,1 +1,2 @@
 # ransomeware
+password: propass
